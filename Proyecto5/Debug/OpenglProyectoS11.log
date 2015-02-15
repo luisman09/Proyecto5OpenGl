@@ -1,0 +1,169 @@
+﻿Compilación iniciada a las 15/02/2015 11:22:35 a.m..
+     1>Proyecto "C:\Users\Luisma\Documents\Visual Studio 2012\Projects\OpenglProyectoS09\OpenglProyectoS11.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\dev\include /I"C:\Users\Luisma\Documents\Visual Studio 2012\Opengl\glew-1.7.0\include" /I"C:\Users\Luisma\Documents\Visual Studio 2012\Opengl\freeglut\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt glm.cpp mainProyectoOpenglII.cpp
+         mainProyectoOpenglII.cpp
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\mainproyectoopenglii.cpp(40): warning C4101: 'aspectratio' : variable local sin referencia
+         glm.cpp
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(187): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(234): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(263): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : vea la declaración de 'strcat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(276): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(285): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(303): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(304): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(305): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(307): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(308): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(309): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(316): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(320): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(328): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(330): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(344): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(350): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(356): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(389): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : vea la declaración de 'strcpy'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(390): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : vea la declaración de 'strcat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(448): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(479): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(480): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(499): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(503): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(505): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(508): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(512): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(514): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(515): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(518): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(522): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(524): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(525): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(528): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(534): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(535): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(599): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(611): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(618): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(624): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(631): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(647): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(651): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(654): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(657): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(662): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(672): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(677): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(681): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(687): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(700): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(704): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(707): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(712): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(724): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(726): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(728): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(732): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : vea la declaración de 'fscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(807): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(808): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(809): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(812): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1012): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1169): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1175): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1176): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1234): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1239): warning C4305: '=' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1241): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1244): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1245): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1308): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1317): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : vea la declaración de 'strdup'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1429): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1791): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1812): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1814): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+     1>c:\users\luisma\documents\visual studio 2012\projects\openglproyectos09\glm.cpp(1816): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : vea la declaración de 'sscanf'
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"s\OpenglProyectoIII.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\dev\lib\x86 /LIBPATH:"C:\Users\Luisma\Documents\Visual Studio 2012\Opengl\glew-1.7.0\lib" /LIBPATH:"C:\Users\Luisma\Documents\Visual Studio 2012\Opengl\freeglut\lib" /LIBPATH:C:\dev\Assimp\lib\x86 /LIBPATH:C:\dev\opengl\freeglut\lib /LIBPATH:"C:\dev\opengl\glew-1.7.0\lib" glew32.lib freeglut.lib assimp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"s\OpenglProyectoIII.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"s\OpenglProyectoIII.lib" /MACHINE:X86 Debug\glm.obj
+         Debug\mainProyectoOpenglII.obj
+         OpenglProyectoS11.vcxproj -> C:\Users\Luisma\Documents\Visual Studio 2012\Projects\OpenglProyectoS09\s\OpenglProyectoIII.exe
+     1>Compilación del proyecto terminada "C:\Users\Luisma\Documents\Visual Studio 2012\Projects\OpenglProyectoS09\OpenglProyectoS11.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.59

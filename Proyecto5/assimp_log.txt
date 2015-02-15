@@ -1,0 +1,13 @@
+Info,  T3568: Load escenario.obj
+Info,  T3568: Found a matching importer for this file format
+Info,  T3568: Import root directory is '.\'
+Info,  T3568: Entering post processing pipeline
+Error, T3568: Failed to triangulate polygon (no ear found). Probably not a simple polygon?
+Skipping one or more lines with the same contents
+Info,  T3568: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T3568: Points: 0, Lines: 0, Triangles: 3, Polygons: 0 (Meshes, X = removed)
+Info,  T3568: GenVertexNormalsProcess finished. Vertex normals have been calculated
+Info,  T3568: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T3568: JoinVerticesProcess finished | Verts in: 123454 out: 40530 | ~67.2%
+Info,  T3568: Cache relevant are 3 meshes (59712 faces). Average output ACMR is 0.864784
+Info,  T3568: Leaving post processing pipeline
